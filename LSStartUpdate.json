@@ -1,9 +1,9 @@
 {
   "Production": {
-    "Version": "10.18.1"
+    "Version": "1.0.18.1"
   },
   "Beta": {
-    "Version": "10.19.0",
+    "Version": "1.0.19.0",
     "AllowedUsers": [
       "hnguyen",
       "aasing",
