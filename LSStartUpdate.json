@@ -1,0 +1,15 @@
+{
+  "Production": {
+    "Version": "10.18.1"
+  },
+  "Beta": {
+    "Version": "10.19.0",
+    "AllowedUsers": [
+      "hnguyen",
+      "aasing",
+      "hokatie",
+      "nguyenm",
+      "llinda"
+    ]
+  }
+}
