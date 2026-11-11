@@ -1,15 +1,17 @@
 {
-  "Production": {
-    "Version": "1.0.18.1"
+"Production": {
+    "Version": "1.0.18.1",
+    "DownloadUrl": "https://norskmed-my.sharepoint.com/:u:/r/personal/hnguyen_norskmed_no/_layouts/15/download.aspx?SourceUrl=https://norskmed-my.sharepoint.com/personal/hnguyen_norskmed_no/Documents/LS%20Start/LS%20Start%20GUI.zip"
   },
   "Beta": {
-    "Version": "1.0.19.0",
+    "Version": "1.0.18.1",
+    "DownloadUrl": "https://norskmed-my.sharepoint.com/:u:/r/personal/hnguyen_norskmed_no/_layouts/15/download.aspx?SourceUrl=https://norskmed-my.sharepoint.com/personal/hnguyen_norskmed_no/Documents/LS%20Start/LS%20Start%20GUIBeta.zip",
     "AllowedUsers": [
       "hnguyen",
       "aasing",
       "hokatie",
-      "nguyenm",
-      "llinda"
+      "NguyenM",
+      "Llinda"
     ]
   }
 }
